@@ -46,8 +46,9 @@ code construction-status.md
 
 ```
 conworkwithmd/
-├── README.md                    # ← คู่มือการใช้งาน (ไฟล์นี้)
-├── construction-status.md       # ← ไฟล์หลักติดตามงาน
+├── README.md                         # ← คู่มือการใช้งาน (ไฟล์นี้)
+├── construction-status.md            # ← ไฟล์หลักติดตามงาน (14 โครงการ)
+├── customer-communication-log.md     # ← Log การติดต่อลูกค้ารายวัน/สัปดาห์/เดือน
 └── [เอกสารอื่นๆ]
 ```
 
